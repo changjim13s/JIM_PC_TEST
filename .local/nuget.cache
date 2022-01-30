@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n9Cb7aTQFRutPabMDOgiDIGzpO2gVRXAfO00h6kaegFfStFczPVr6vkui3EKrDIp1a4ZcsDUC6dA8Y7JDZZw1w==",
+  "dgSpecHash": "MZI92pKXAn0Zx/8WE43qqnGsGHIlF65f8O11ysViT180X2PZRQv7ewnAEeB28S+TqTOFTGM+KzwHFN3LNw3HQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chang\\Documents\\UiPath\\JIM_PC_TEST\\.local\\",
+  "projectFilePath": "\\\\J12345\\共享資料夾\\JIM_PC_TEST\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\chang\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\chang\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

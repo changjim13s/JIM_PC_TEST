@@ -7574,9 +7574,9 @@
     "restore": {
       "projectUniqueName": "JIM_PC_TEST",
       "projectName": "JIM_PC_TEST",
-      "projectPath": "C:\\Users\\chang\\Documents\\UiPath\\JIM_PC_TEST\\.local",
+      "projectPath": "\\\\J12345\\共享資料夾\\JIM_PC_TEST\\.local",
       "packagesPath": "C:\\Users\\chang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chang\\Documents\\UiPath\\JIM_PC_TEST\\.local"
+      "outputPath": "\\\\J12345\\共享資料夾\\JIM_PC_TEST\\.local"
     },
     "frameworks": {
       "net461": {
