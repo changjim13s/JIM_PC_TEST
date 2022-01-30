@@ -7568,15 +7568,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chang\\.nuget\\packages\\": {}
+    "C:\\Users\\JMCG\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "JIM_PC_TEST",
       "projectName": "JIM_PC_TEST",
-      "projectPath": "C:\\Users\\chang\\Documents\\UiPath\\JIM_PC_TEST\\.local",
-      "packagesPath": "C:\\Users\\chang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chang\\Documents\\UiPath\\JIM_PC_TEST\\.local"
+      "projectPath": "C:\\Users\\JMCG\\Documents\\GitHub\\JIM_PC_TEST\\.local",
+      "packagesPath": "C:\\Users\\JMCG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JMCG\\Documents\\GitHub\\JIM_PC_TEST\\.local"
     },
     "frameworks": {
       "net461": {
